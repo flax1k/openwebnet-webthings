@@ -1,0 +1,44 @@
+gateway:
+  host: 192.168.1.10
+  port: 20000
+  password: '951753'
+
+lights:
+  - name: vooraan_eettafel
+    address: '10'
+  - name: vooraan_wand
+    address: '11'
+  - name: vooraan_keuken
+    address: '0110'
+  - name: inkom
+    address: '13'
+  - name: buiten_voordeur
+    address: '25'
+  - name: salon_wand
+    address: '18'
+  - name: salon_plafond
+    address: '17'
+  - name: gang_trap
+    address: '14'
+  - name: trap
+    address: '15'
+  - name: terras
+    address: '24'
+  - name: verdieping_gang
+    address: '0114'
+  - name: badkamer
+    address: '26'
+  - name: badkamer_spiegel
+    address: '28'
+  - name: douche
+    address: '27'
+  - name: slaapkamer_ouders
+    address: '0112'
+  - name: slaapkamer_elsbeth
+    address: '0113'
+  - name: slaapkamer_karlijn
+    address: '0115'
+  - name: kelder_trap
+    address: '0211'
+  - name: kelder
+    address: '0210'
