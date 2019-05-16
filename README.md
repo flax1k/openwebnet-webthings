@@ -22,5 +22,5 @@ Depending on how you installed the iot gateway the process is more or less autom
 
 ![](docs/addon.png)
 ![](docs/addon-config.png)
-![](docs/openwebnet-webhthings.png)
+![](docs/openwebnet-webthings.png)
 
