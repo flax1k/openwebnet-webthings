@@ -2,6 +2,12 @@
 
 A [webthings](https://iot.mozilla.org/docs/) service for [openwebnet](https://www.myopen-legrandgroup.com/)
 
+# Dependencies
+
+This depends on the reopenwebnet python library. It can be installed like this:
+
+    pip3 install reopenwebnet
+
 # Usage
 
 First edit the configuration file to describe your openwebnet-controlled devices.
