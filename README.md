@@ -17,4 +17,10 @@ Next, start the webthings service:
 
     python openwebnet-webthings.py <your-config-file>
 
-Finally, import the webthings via the service url (e.g. http://localhost:8888). Make sure to replace 'localhost' with the correct hostname if your Mozilla iot gateway and your webthings service are not running on the same node.
+Finally, import the webthings into your iot gateway. The following screenshots document the process;
+Depending on how you installed the iot gateway the process is more or less automatic.
+
+![](docs/addon.png)
+![](docs/addon-config.png)
+![](docs/openwebnet-webhthings.png)
+
